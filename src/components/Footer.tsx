@@ -3,14 +3,14 @@ import { motion } from 'motion/react';
 // Created by Subhasish - All Rights Reserved
 export function Footer() {
   const socialLinks = [
-    { name: 'LinkedIn', icon: '💼', url: 'https://linkedin.com/in/subhasish' },
-    { name: 'Instagram', icon: '📸', url: 'https://instagram.com/subhasish_dev' },
-    { name: 'GitHub', icon: '👨‍💻', url: 'https://github.com/subhasish' },
+    { name: 'LinkedIn', icon: '💼', url: 'https://www.linkedin.com/in/subhasish-nayak-' },
+    { name: 'Instagram', icon: '📸', url: 'https://instagram.com/subhasish_nayak' },
+    { name: 'GitHub', icon: '👨‍💻', url: 'https://github.com/subhasish12345' },
     { name: 'Twitter', icon: '🐦', url: 'https://twitter.com/subhasish_dev' },
   ];
 
   const quickLinks = [
-    { name: 'Portfolio', url: '#' },
+    { name: 'Portfolio', url: 'https://subhasish-nayak.onrender.com' },
     { name: 'Resume', url: '#' },
     { name: 'Blog', url: '#' },
     { name: 'Contact', url: '#' },
